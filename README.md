@@ -1,4 +1,4 @@
-# ![image](images/polyglob_banner.png)
+# ![image](polyglot_banner.png)
 
 | Description          | Repo Name                                                                        |
 | ----                 | ----                                                                             |
